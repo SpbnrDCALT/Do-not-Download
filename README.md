@@ -142,7 +142,6 @@ Okay If you See this Do not Download
 
 
 
-(bruh)
 
 
 
@@ -318,7 +317,6 @@ Okay If you See this Do not Download
 
 
 
-(STOP)
 
 
 
@@ -400,7 +398,8 @@ Okay If you See this Do not Download
 
 
 
-(okay ill stop)
+
+
 
 
 
